@@ -1,4 +1,4 @@
-# Connect 4 Reinforcement learning
+# Patient Tracking
 
 A Jetson Orin Nano-based patient tracking system **uses a YOLO model to classify behavior and have an AI supervisor to talk to the patient** .
 
