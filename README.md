@@ -57,6 +57,6 @@ pip install -r requirements.txt --force-reinstall
 
 # run the tracker
 cd ~/patient-tracking
-python3 ollama+hpc.py
+python3 no-error-ollama.py
 
 ```
